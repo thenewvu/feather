@@ -10,6 +10,14 @@ Change Log
 
 See [CHANGELOG.md](https://github.com/colebemis/feather/blob/master/CHANGELOG.md)
 
+Strokes to Paths
+---
+
+```
+find icons/photo-and-video/ -type f | parallel -j4 ./bin/strokes-to-paths.sh {}
+```
+
+
 License
 ---
 

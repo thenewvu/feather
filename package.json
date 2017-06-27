@@ -16,7 +16,8 @@
     "husky": "^0.13.4",
     "semantic-release": "^6.3.6",
     "svgo": "^0.7.2",
-    "validate-commit-msg": "^2.12.1"
+    "validate-commit-msg": "^2.12.1",
+    "xml2js": "^0.4.17"
   },
   "config": {
     "commitizen": {
