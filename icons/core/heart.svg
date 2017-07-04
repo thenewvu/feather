@@ -1,3 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   stroke="#000"
+   stroke-width="1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="heart.svg"
+   inkscape:version="0.92.1 r">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:current-layer="svg4" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="M 6.7773438,2.4082031 C 5.2619427,2.4973447 3.857708,3.204792 2.8066406,4.2558594 1.7555732,5.3069268 1.0481259,6.7111615 0.95898438,8.2265625 0.86984281,9.7419635 1.4215861,11.359086 2.8066406,12.744141 l 1.0605469,1.058593 7.7792965,7.78125 a 0.50005,0.50005 0 0 0 0.707032,0 l 7.779296,-7.78125 1.060547,-1.058593 c 2.340279,-2.339181 2.340279,-6.1491011 0,-8.4882816 -2.33918,-2.3402788 -6.147147,-2.3402788 -8.486328,0 L 12,4.9628906 11.292969,4.2558594 C 9.9079143,2.8708049 8.2927448,2.3190615 6.7773438,2.4082031 Z m 0.058594,1 c 1.240015,-0.072942 2.5417223,0.3464098 3.7500005,1.5546875 l 1.060546,1.0605469 a 0.50005,0.50005 0 0 0 0.707032,0 l 1.060546,-1.0605469 c 1.957004,-1.9579228 5.115262,-1.9579228 7.072266,0 1.957923,1.957004 1.957923,5.1172144 0,7.0742184 L 19.425781,13.095703 12,20.523438 4.5742188,13.095703 3.5136719,12.037109 C 2.3053942,10.828832 1.8840889,9.5271244 1.9570312,8.2871094 2.0299736,7.0470944 2.6197393,5.8568232 3.5136719,4.9628906 4.4076045,4.068958 5.5959225,3.4811455 6.8359375,3.4082031 Z"
+     id="path2"
+     inkscape:connector-curvature="0" />
 </svg>
